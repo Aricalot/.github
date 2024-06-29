@@ -4,11 +4,10 @@
 
 </div>
 
+<div style="background-image: url('./assets/bg_aricalot-1.png'); background-color: #f0f0f0; background-size: cover; background-blend-mode: overlay; padding: 20px; color: black; text-align: center;">
 At Aricalot, our foundation is rooted in the belief that strong relationships are built upon trust, reliability, and exceptional quality. We pride ourselves on the enduring connections we establish with our customers through the consistent delivery of top-tier products. Every product we offer is a testament to our dedication to quality craftsmanship, meticulous attention to detail, and unwavering commitment to meeting and surpassing our customers' expectations.
 
 We understand that each interaction is an opportunity to strengthen our relationships, and we strive to earn your trust by consistently delivering exceptional value, reliability, and superior quality in everything we do. Your satisfaction is not just our goal; it's the cornerstone of the relationships we build.
-
-![Team Photo](./assets/DSC_7873-scaled.webp)
 
 ## Belief
 
@@ -16,6 +15,11 @@ We understand that each interaction is an opportunity to strengthen our relation
 At Aricalot, our foundation is rooted in the belief that strong relationships are built upon trust, reliability, and exceptional quality. We pride ourselves on the enduring connections we establish with our customers through the consistent delivery of top-tier products. Every product we offer is a testament to our dedication to quality craftsmanship, meticulous attention to detail, and unwavering commitment to meeting and surpassing our customers' expectations.
 
 We understand that each interaction is an opportunity to strengthen our relationships, and we strive to earn your trust by consistently delivering exceptional value, reliability, and superior quality in everything we do. Your satisfaction is not just our goal; it's the cornerstone of the relationships we build.
+</div>
+
+![Team Photo](./assets/DSC_7873-scaled.webp)
+
+
 
 ## Engineering Tools
 
